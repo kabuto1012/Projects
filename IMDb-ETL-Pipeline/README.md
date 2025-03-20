@@ -42,18 +42,19 @@ This project demonstrates an **ETL (Extract, Transform, Load)** pipeline applied
 ---
 
 ## Code Structure
+
 IMDb-ETL-Pipeline/
-├── dags/ # Airflow DAG files (if applicable)
-├── scripts/ # Python scripts for ETL
-│ ├── DataExtraction.py # Web scraping logic
-│ ├── DataLoading.py # Database loading logic
-│ └── ml.py # Machine learning integration (if applicable)
-├── data/ # Raw and processed data files
-│ ├── Movies_info.csv # Extracted movie details
-│ ├── full_cast_and_crew.csv # Cast and crew details
-│ └── integrated_dataframe.csv # Final integrated dataset
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── dags/                  # Airflow DAG files (if applicable)
+├── scripts/               # Python scripts for ETL
+│   ├── DataExtraction.py  # Web scraping logic
+│   ├── DataLoading.py     # Database loading logic
+│   └── ml.py              # Machine learning integration (if applicable)
+├── data/                  # Raw and processed data files
+│   ├── Movies_info.csv    # Extracted movie details
+│   ├── full_cast_and_crew.csv  # Cast and crew details
+│   └── integrated_dataframe.csv  # Final integrated dataset
+├── README.md              # Project documentation
+└── requirements.txt       # Python dependencies
 
 ---
 
