@@ -46,7 +46,8 @@ This project demonstrates a **complete data pipeline** using Apache Airflow to a
    ```bash
    pip install -r requirements.txt
 2. Start Apache Airflow:
-  airflow standalone
+   ```bash
+   airflow standalone
 3. Upload the DAGs to Airflow and trigger the pipeline.
 
 ---
