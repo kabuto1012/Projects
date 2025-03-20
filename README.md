@@ -1,6 +1,6 @@
 # University Projects Repository
 
-Welcome to my University Projects Repository, This collection showcases my academic work in **Data Science, Data Engineering, and Machine Learning**. Each project demonstrates my ability to solve real-world problems using a variety of tools and techniques.
+Welcome to my University Projects Repository! This collection showcases my academic work in **Data Science, Data Engineering, and Machine Learning**. Each project demonstrates my ability to solve real-world problems using a variety of tools and techniques.
 
 ---
 
@@ -24,7 +24,16 @@ Welcome to my University Projects Repository, This collection showcases my acade
   - Interactive 3D visualizations with Plotly
 - [View Code](./Credit-Risk-Analysis)
 
-### 3. **Information Retrieval System**
+### 3. **Automated ETL Pipeline with Apache Airflow**
+- **Description:** Designed and automated an ETL pipeline using Apache Airflow, integrating machine learning for diabetes prediction.
+- **Tech Stack:** Apache Airflow, Python, Pandas, Scikit-learn, MySQL
+- **Key Features:**
+  - Automated data extraction, transformation, and loading (ETL)
+  - Integration of a machine learning model for diabetes prediction
+  - Workflow orchestration using Airflow DAGs
+- [View Code](./Airflow-ETL-ML-Pipeline)
+
+### 4. **Information Retrieval System**
 - **Description:** Developed a text search engine using TF-IDF and cosine similarity for document ranking.
 - **Tech Stack:** Python, NLTK, Scikit-learn, Tkinter
 - **Key Features:**
@@ -33,14 +42,6 @@ Welcome to my University Projects Repository, This collection showcases my acade
   - GUI interface with Tkinter
 - [View Code](./Information-Retrieval-System)
 
-### 4. **Image Processing Toolkit**
-- **Description:** Created a toolkit for image manipulation and analysis, including filtering and transformation.
-- **Tech Stack:** Python, PIL, NumPy
-- **Key Features:**
-  - Image filtering (blur, edge detection)
-  - Histogram analysis for image comparison
-- [View Code](./Image-Processing-Toolkit)
-
 ---
 
 ## Skills Demonstrated
@@ -48,15 +49,7 @@ Welcome to my University Projects Repository, This collection showcases my acade
 - **Data Mining:** Association rule mining, pattern discovery
 - **Machine Learning:** Classification, feature engineering
 - **Visualization:** Interactive dashboards, 3D plotting
-- **Tools:** Python, Pandas, Scikit-learn, Plotly, MySQL, NLTK, PIL
-
----
-
-## How to Navigate
-- Each project folder contains:
-  - Source code
-  - Documentation (if applicable)
-  - Sample outputs (e.g., visualizations, reports)
+- **Tools:** Python, Pandas, Scikit-learn, Plotly, MySQL, NLTK, Apache Airflow
 
 ---
 
