@@ -44,12 +44,12 @@ This project demonstrates an **ETL (Extract, Transform, Load)** pipeline applied
 ## Code Structure
 
 IMDb-ETL-Pipeline/
-├── dags/
-├── scripts/
+├── dags//
+├── scripts//
 │   ├── DataExtraction.py
 │   ├── DataLoading.py
 │   └── ml.py
-├── data/
+├── data//
 │   ├── Movies_info.csv
 │   ├── full_cast_and_crew.csv
 │   └── integrated_dataframe.csv
