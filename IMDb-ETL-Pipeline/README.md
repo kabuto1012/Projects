@@ -63,19 +63,19 @@ IMDb-ETL-Pipeline/
    ```bash
    pip install -r requirements.txt
 2. Run the Pipeline:
-   -Execute the DataExtraction.py script to scrape IMDb data.\\
-   -Run DataLoading.py to clean and load data into MySQL.\\
+   - Execute the DataExtraction.py script to scrape IMDb data.
+   - Run DataLoading.py to clean and load data into MySQL.
 
 3. Query the Database:
 
-   -Use the provided SQL queries (or create your own) to analyze the data.
+   - Use the provided SQL queries (or create your own) to analyze the data.
 
 ---
 
 ## Key Insights
--Movies by Release Year: Identifies trends in movie releases over time.\\
--Top Directors: Lists directors with the most movies in the top 250.\\
--Gross Revenue Analysis: Normalizes and analyzes worldwide gross revenue.\\
+- Movies by Release Year: Identifies trends in movie releases over time.
+- Top Directors: Lists directors with the most movies in the top 250.
+- Gross Revenue Analysis: Normalizes and analyzes worldwide gross revenue.
 
 ## Example Queries
 1. Movies Released in 2000:
@@ -94,16 +94,16 @@ IMDb-ETL-Pipeline/
 ---
 
 ## Skills Demonstrated
--Web Scraping: Extracting structured data from dynamic websites.\\
--Data Cleaning: Handling missing values, normalizing data, and feature engineering.\\
--Database Design: Creating and managing relational databases with MySQL.\\
--ETL Pipelines: Building end-to-end data pipelines for real-world datasets.\\
+- **Web Scraping**: Extracting structured data from dynamic websites.
+- **Data Cleaning**: Handling missing values, normalizing data, and feature engineering.
+- **Database Design**: Creating and managing relational databases with MySQL.
+- **ETL Pipelines**: Building end-to-end data pipelines for real-world datasets.
 
 ---
 
 ## Contact
 For questions or feedback, feel free to reach out:
 
--Email: 2233114@std.hu.edu.jo
--LinkedIn: Mohanad Assaf
--GitHub: kabuto1012
+- Email: 2233114@std.hu.edu.jo
+- LinkedIn: Mohanad Assaf
+- GitHub: kabuto1012
