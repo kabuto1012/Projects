@@ -6,7 +6,16 @@ Welcome to my University Projects Repository! This collection showcases my acade
 
 ## Projects Overview
 
-### 1. **IMDb ETL Pipeline**
+### 1. **Automated ETL Pipeline with Apache Airflow**
+- **Description:** Designed and automated an ETL pipeline using Apache Airflow, integrating machine learning for diabetes prediction.
+- **Tech Stack:** Apache Airflow, Python, Pandas, Scikit-learn, MySQL
+- **Key Features:**
+  - Automated data extraction, transformation, and loading (ETL)
+  - Integration of a machine learning model for diabetes prediction
+  - Workflow orchestration using Airflow DAGs
+- [View Code](./Airflow-ETL-ML-Pipeline)
+
+### 2. **IMDb ETL Pipeline**
 - **Description:** Built an end-to-end ETL pipeline to scrape, clean, and store IMDb's Top 250 Movies dataset.
 - **Tech Stack:** Python, BeautifulSoup, Selenium, Pandas, MySQL, SQLAlchemy
 - **Key Features:**
@@ -15,7 +24,7 @@ Welcome to my University Projects Repository! This collection showcases my acade
   - Database design and querying with MySQL
 - [View Code](./IMDb-ETL-Pipeline)
 
-### 2. **Credit Risk Analysis**
+### 3. **Credit Risk Analysis**
 - **Description:** Analyzed financial data to predict loan default risks and discover patterns using data mining techniques.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Plotly, Apriori, FP-Growth
 - **Key Features:**
@@ -23,15 +32,6 @@ Welcome to my University Projects Repository! This collection showcases my acade
   - Association rule mining (Apriori, FP-Growth)
   - Interactive 3D visualizations with Plotly
 - [View Code](./Credit-Risk-Analysis)
-
-### 3. **Automated ETL Pipeline with Apache Airflow**
-- **Description:** Designed and automated an ETL pipeline using Apache Airflow, integrating machine learning for diabetes prediction.
-- **Tech Stack:** Apache Airflow, Python, Pandas, Scikit-learn, MySQL
-- **Key Features:**
-  - Automated data extraction, transformation, and loading (ETL)
-  - Integration of a machine learning model for diabetes prediction
-  - Workflow orchestration using Airflow DAGs
-- [View Code](./Airflow-ETL-ML-Pipeline)
 
 ### 4. **Information Retrieval System**
 - **Description:** Developed a text search engine using TF-IDF and cosine similarity for document ranking.
