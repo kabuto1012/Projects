@@ -52,7 +52,7 @@ This project demonstrates a **complete data pipeline** using Apache Airflow to a
 
 ---
 
-##Skills Demonstrated
+## Skills Demonstrated
 -**Data Engineering**: ETL pipeline design, workflow automation
 
 -**Machine Learning**: Model training and integration
