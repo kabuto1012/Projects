@@ -106,6 +106,6 @@ IMDb-ETL-Pipeline/
 ## Contact
 For questions or feedback, feel free to reach out:
 
-- Email: 2233114@std.hu.edu.jo
+- Email: mohanadassaf01@gmail.com
 - LinkedIn: Mohanad Assaf
 - GitHub: kabuto1012
