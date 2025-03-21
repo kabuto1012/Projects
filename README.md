@@ -55,6 +55,6 @@ Welcome to my University Projects Repository! This collection showcases my acade
 
 ## Contact
 Feel free to reach out if you have any questions or feedback!  
-- **Email:** [2233114@std.hu.edu.jo](mailto:2233114@std.hu.edu.jo)  
+- **Email:** [mohanadassaf01@gmail.com](mailto:mohanadassaf01@gmail.com)  
 - **LinkedIn:** [Mohanad Assaf](https://www.linkedin.com/in/mohanad-assaf-33843a1b4/)  
 - **GitHub:** [kabuto1012](https://github.com/kabuto1012)  
