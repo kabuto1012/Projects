@@ -4,7 +4,7 @@ Python (3.6+)
 Jupyter Notebook or JupyterLab
 
 ## Steps to Run:
-1. In the terminal, navigate to 2232890_2233114_2232783.ipynb file directory
+1. In the terminal, navigate to code.ipynb file directory
 cd path/to/your/notebook
 
 2. Launch Jupyter using:
