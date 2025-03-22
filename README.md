@@ -1,6 +1,6 @@
 # Projects Repository
 
-Welcome to my University Projects Repository! This collection showcases my academic work in **Data Science, Data Engineering, and Machine Learning**. Each project demonstrates my ability to solve real-world problems using a variety of tools and techniques.
+Welcome to my Projects Repository! This collection showcases my work in **Data Science, Data Engineering, and Machine Learning**.
 
 ---
 
