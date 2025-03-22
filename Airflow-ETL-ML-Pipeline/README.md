@@ -58,3 +58,10 @@ This project demonstrates a **complete data pipeline** using Apache Airflow to a
 -**Machine Learning**: Model training and integration
 
 -**Tools**: Apache Airflow, Python, Pandas, Scikit-learn, MySQL
+
+---
+
+##Authors
+Mohanad Assaf
+
+Khaled Saleh(https://github.com/Khaled-Saleh-KL1)
