@@ -115,4 +115,4 @@ For questions or feedback, feel free to reach out:
 ## Authors
 Mohanad Assaf
 
-Khaled Saleh(https://github.com/Khaled-Saleh-KL1)
+[Khaled Saleh](https://github.com/Khaled-Saleh-KL1)
