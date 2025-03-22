@@ -61,7 +61,7 @@ This project demonstrates a **complete data pipeline** using Apache Airflow to a
 
 ---
 
-##Authors
+## Authors
 Mohanad Assaf
 
-Khaled Saleh(https://github.com/Khaled-Saleh-KL1)
+[Khaled Saleh](https://github.com/Khaled-Saleh-KL1)
